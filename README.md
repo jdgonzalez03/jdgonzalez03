@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **openFullStack bootcamp**
 
-- 🌱 I’m currently learning **react in depth, and I am also interested in the backend.**
+- 🌱 I’m currently learning **vue in depth, and I am also interested in the backend.**
 
 - 👨‍💻 All of my projects are available at [https://jdgonzalez03.github.io/](https://jdgonzalez03.github.io/)
 
