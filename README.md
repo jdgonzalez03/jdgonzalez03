@@ -34,6 +34,34 @@ Right now I am exploring the world of **Artificial Intelligence** and how to int
 
 ---
 
+## 🧩 DevChallenges Solutions
+
+Some of my solutions to challenges from **devChallenges.io**, focused on improving frontend skills using HTML, CSS, and Vue.
+
+### [Join Our Newsletter](https://join-our-newsletter-by-jd.netlify.app/)
+> A simple responsive newsletter subscription component built with **HTML and CSS**, without using frameworks or libraries.
+
+### [Simple Coffee Listing](https://simple-coffee-list-by-jd.netlify.app/)
+> A Vue 3 application built with the **Composition API** that fetches and displays coffee data. Styled using **vanilla CSS**.
+
+### [Simple Article Listing](https://simple-article-listing-by-jd.netlify.app/)
+> A clean and responsive article listing layout built entirely with **HTML and CSS**.
+
+### [Business Blog Card](https://business-blog-card-by-jd.netlify.app/)
+> A blog card component designed to practice **overlay effects and positioning techniques** using **HTML and CSS**.
+
+### [Simple Homepage](https://simple-homepage-by-jd.netlify.app/)
+> A homepage layout featuring **dark/light theme switching** and a **responsive sidebar navigation**, implemented with **HTML, CSS, and JavaScript**.
+
+### [Minimal Blog Card](https://minimal-blog-card-by-jd.netlify.app/)
+> A minimal blog card UI component created using **pure HTML and CSS**.
+
+### [Frequently Asked Questions](https://frequently-asked-question-by-jd.netlify.app/)
+> A simple FAQ page designed to practice **layout, spacing, and responsive design** using **HTML and CSS**.
+
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages:**
