@@ -1,52 +1,83 @@
-<h1 align="center">Hi 👋, I'm Juan D. Gonzalez</h1>
-<h3 align="center">A passionate student of electronic engineer and love the frontend development</h3>
+# Hola, soy Juan D. González 👋
 
-- 🌱 I’m currently learning **VueJS in depth, and I am also interested in the backend.**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Full+Stack+Web+Developer;Electronic+Engineer+in+progress;Django+%7C+Vue.js+%7C+React+%7C+Astro;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-- 👨‍💻 All of my projects are available at [https://jdgonzalez03.github.io/](https://jdgonzalez03.github.io/)
+---
 
-- ⚡ Fun fact **I think that I am funny**
+## 👨‍💻 Sobre mí
 
-<h3 align="left">Connect with me:</h3>
+Soy estudiante en proceso de graduación de Ingeniería Electrónica en la **Universidad de los Llanos**, Villavicencio, Colombia.
+Mi interés por la programación comenzó experimentando con **Arduino**, y desde entonces construir software se convirtió en una pasión que disfruto profundamente.
+
+Actualmente trabajo como desarrollador web full stack en **Helix Software**, donde llevo más de un año aprendiendo, aportando y creciendo rodeado de personas increíbles. Me encanta dar vida a cada idea que pasa por mi mente, aprendo rápido y me obsesiono con los proyectos en los que trabajo 🔥.
+
+Hoy estoy explorando el mundo de la **Inteligencia Artificial** y cómo integrarla en aplicaciones web reales.
+
+---
+
+## 🌱 Más allá del código
+
+- 🥋 Practico **Judo** — disciplina tanto dentro como fuera del tatami
+- ⚽ Me apasiona el **fútbol**
+- 🤖 Aprendiendo **IA** y cómo aplicarla en proyectos reales
+- ⚡ Fanático de los proyectos con **Arduino** y hardware
+
+---
+
+## 🛠️ Tech Stack
+
+**Lenguajes:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frontend:**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend:**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**Bases de datos & Cloud:**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Hardware & otros:**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+## 🚀 Proyectos destacados
+
+### [CV Builder](https://cv-builder-blue-sigma.vercel.app/)
+> Generador de CV minimalista sin registro. Solo ingresa tu información y obtén un PDF limpio y profesional al instante.
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
 <p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jdgonzalez03&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdgonzalez03&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-</p>
+---
+
+## 📬 Conectemos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-gonzalez-067aa728b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://jdgonzalez03.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jdgonzalez03)
+
+---
+
+<p align="center">⭐ <em>Gracias por visitar mi perfil. Explora mis repos y no dudes en escribirme.</em></p>
